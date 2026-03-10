@@ -8,6 +8,8 @@ but i never assembled it as i dont have a accessible 3D printer that i could use
 
 components needed - 16 M2 screws, 1 raspberry pi pico h, 3D printer, 68 mx switches, i have made custom size of keys so just print the keycaps given as the premade purchasable ones wont fit  
 
+whats next - build this and fix any problem with the design but probably will build the split ergonomic keyboard first(WIP) 
+
 ![image alt](https://github.com/deepdass/akeyboard/blob/18e11f1e9356c34f349c3b6af449c7cb92039433/diagrams/visionig/Screenshot%202025-02-03%20152631.png)
 
 ![image alt](https://github.com/deepdass/akeyboard/blob/18e11f1e9356c34f349c3b6af449c7cb92039433/diagrams/visionig/Screenshot%202025-03-02%20173529.png)
