@@ -12,8 +12,8 @@ I started this project as I wanted a mechanical keyboard, so I decided to build 
 5. I also made it [VIA](https://caniusevia.com/) compatible for easier keymaping 
 
 ### The problem
-- but i never assembled it as i dont have a accessible 3D printer that i could use, I asked my school if i could use the 3D printer that was there in the school that no one used but they said no, sad 
-- also because of the high mx switch prices
+- I haven't assembled the keyboard yet because the case and keycaps require 3D printing, and I currently don't have access to a 3D printer. I asked my school if I could use the one they had available, but it wasn't accessible for student projects, so I started looking for other ways to get the parts printed
+- The cost of MX switches is another constraint for completing the build
 
 ## Current Status
 The firmware and keyboard matrix design are complete and tested on the microcontroller
@@ -37,4 +37,7 @@ The keyboard has not yet been assembled because the case and keycaps require a 3
 
 ## Whats next 
 - build this and fix any problem with the design but probably will build the split ergonomic keyboard first(WIP), 
-- might make a docs on this like showing the whole process, also the problems i faced and solutions i came up with and easier and time saving ways of doing some things but i dont think im good at making appealing docs  
+- might make a docs on this like showing the whole process, also the problems i faced and solutions i came up with and easier and time saving ways of doing some things.
+
+<p align="center">Overall this Project made me more comfortable with Hardware stuff</p>
+
