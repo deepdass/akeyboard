@@ -13,12 +13,12 @@ I started this project as I wanted a mechanical keyboard, so I decided to build 
 
 ### The problem
 - I haven't assembled the keyboard yet because the case and keycaps require 3D printing, and I currently don't have access to a 3D printer. I asked my school if I could use the one they had available, but it wasn't accessible for student projects, so I started looking for other ways to get the parts printed
-- The cost of MX switches is another constraint for completing the build
+- The cost of MX switches is another reason, so I will probably go with cheaper third-party MX switches
 
 ## Current Status
-The firmware and keyboard matrix design are complete and tested on the microcontroller
+The firmware and keyboard matrix design are complete and I have tested it on the microcontroller
 
-The keyboard has not yet been assembled because the case and keycaps require a 3D printer to print, so the physical build is currently pending
+The keyboard has not been assembled yet because the case and keycaps requires a 3D printer to print, so the physical build is pending
 
 ## Components needed
 - 1 raspberry pi pico h
